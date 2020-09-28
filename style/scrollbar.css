@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* Весь скролл */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Фон скролла */
+::-webkit-scrollbar-track {
+  background-color: #0E0D14;
+}
+
+/* Ползунок скрола */
+::-webkit-scrollbar-thumb {
+  background-color: #6DEFB9;
+}
+/*# sourceMappingURL=scrollbar.css.map */

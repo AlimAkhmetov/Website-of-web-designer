@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Graphik LCG';
+  src: url("../fonts/GraphikLCG-Light.woff2") format("woff2"), url("../fonts/GraphikLCG-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik LCG';
+  src: url("../fonts/GraphikLCG-Regular.woff2") format("woff2"), url("../fonts/GraphikLCG-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik LCG';
+  src: url("../fonts/GraphikLCG-Medium.woff2") format("woff2"), url("../fonts/GraphikLCG-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik LCG';
+  src: url("../fonts/GraphikLCG-Semibold.woff2") format("woff2"), url("../fonts/GraphikLCG-Semibold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Graphik LCG';
+  src: url("../fonts/GraphikLCG-Bold.woff2") format("woff2"), url("../fonts/GraphikLCG-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+/*# sourceMappingURL=fonts.css.map */
